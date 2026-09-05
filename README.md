@@ -1,4 +1,4 @@
-# Comparative Analysis of Type III Effector Repertoires in Environmental *Pseudomonas* identifies new candidate effectors.
+# Comparative analysis of predicted Type III effector repertoires in environmental *Pseudomonas* identifies new candidate effectors.
 
 This repository contains the bioinformatics pipeline and supporting data used in:
 
