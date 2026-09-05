@@ -10,7 +10,7 @@ The Type III secretion system (T3SS) is used by Gram-negative bacteria to transl
 
 This project implements a customized bioinformatics pipeline to:
 
-1. Predict candidate T3SEs in a curated collection of 51 T3SS-positive *Pseudomonas* genomes using [Effectidor](https://effectors.tau.ac.il/) (prediction score ≥ 0.6).
+1. Predict candidate T3SEs in a curated collection of 51 T3SS-positive *Pseudomonas* genomes using [Effectidor](https://effectidor.tau.ac.il/) (prediction score ≥ 0.6).
 2. Compare the predicted effectors (**Database 1**) against a reference set of known Psy effectors (**Database 2**) via BLASTp (e-value ≤ 1e-5) to filter out effectors homologous to characterized Psy effectors.
 3. Summarize the resulting non-Psy-like effector repertoire (596 sequences / 93 unique annotations) and identify the most frequent candidate annotations, including ankyrin repeat-containing proteins (ARP) and MaoC dehydratase, for downstream experimental follow-up.
 
