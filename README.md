@@ -59,4 +59,4 @@ Nedeljković M, et al. Comparative analysis of predicted Type III effector reper
 
 ## Contact
 
-Corresponding author: Jelena Lozo — jlozo@bio.bg.ac.rs
+Corresponding author: prof Jelena Lozo — jlozo@bio.bg.ac.rs
